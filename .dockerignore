@@ -1,0 +1,16 @@
+.git
+node_modules
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+*.log
+logs
+.DS_Store
+Thumbs.db
+dist
+build
+coverage
+tmp
+*.tmp
+*.swp
+*.swo
